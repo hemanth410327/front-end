@@ -1,1 +1,6 @@
 /** Your theme modifications here **/
+
+.img-responsive{
+    height: 100% !important;
+    width: 100%;
+  }
